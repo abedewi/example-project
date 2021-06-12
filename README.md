@@ -1,3 +1,3 @@
 # example-project
 
-by Adam
+by Adam & Kurtis
