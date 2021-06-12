@@ -1,4 +1,4 @@
 # example-project
 
 neigh
-by Adam
+by Adam & Kurt
